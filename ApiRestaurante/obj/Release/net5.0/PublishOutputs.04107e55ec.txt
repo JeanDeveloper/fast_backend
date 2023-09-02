@@ -1,0 +1,39 @@
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\ApiRestaurante.exe
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Connected Services\WS_FastBetaLocal\ConnectedService.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Connected Services\WS_FastBeta\ConnectedService.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Connected Services\WS_FAST\ConnectedService.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\ApiRestaurante.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\ApiRestaurante.runtimeconfig.json
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\ApiRestaurante.pdb
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.PlatformAbstractions.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Xml.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Nancy.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.Private.ServiceModel.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Duplex.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Federation.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Http.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.NetTcp.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Primitives.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Security.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante_OLD\ApiRestaurante\obj\Release\net5.0\PubTmp\Out\ApiRestaurante.deps.json

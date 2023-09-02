@@ -1,0 +1,386 @@
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ref\ApiRestaurante.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.xml
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+C:\Users\USER\source\repos\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FAST\ConnectedService.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.StaticWebAssets.xml
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Nancy.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Pack.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.ApiRestaurante.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRestaurante.props
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestaurante.props
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRestaurante.props
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\refint\ApiRestaurante.dll
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+D:\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBetaLocal\ConnectedService.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FAST\ConnectedService.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.StaticWebAssets.xml
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Nancy.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Pack.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.ApiRestaurante.Microsoft.AspNetCore.StaticWebAssets.props
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRestaurante.props
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestaurante.props
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRestaurante.props
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\refint\ApiRestaurante.dll
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+D:\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBetaLocal\ConnectedService.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FAST\ConnectedService.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.StaticWebAssets.xml
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Nancy.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Pack.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.ApiRestaurante.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRestaurante.props
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestaurante.props
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRestaurante.props
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\refint\ApiRestaurante.dll
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+D:\OneDrive - Sertech Perú\_Projects\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBetaLocal\ConnectedService.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FAST\ConnectedService.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ref\ApiRestaurante.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\MySql.Data.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Nancy.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Text.Json.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ZstdSharp.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.xml
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+E:\Sertech\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.Development.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\appsettings.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBetaLocal\ConnectedService.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FastBeta\ConnectedService.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Connected Services\WS_FAST\ConnectedService.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.StaticWebAssets.xml
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.exe
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.deps.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.runtimeconfig.dev.json
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ApiRestaurante.pdb
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Google.Protobuf.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Microsoft.IdentityModel.Xml.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\MySql.Data.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Nancy.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Federation.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\System.Text.Json.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\ZstdSharp.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.AssemblyReference.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfoInputs.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.AssemblyInfo.cs
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CoreCompileInputs.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.MvcApplicationPartsAssemblyInfo.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\scopedcss\bundle\ApiRestaurante.styles.css
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Manifest.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\ApiRestaurante.StaticWebAssets.Pack.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.ApiRestaurante.Microsoft.AspNetCore.StaticWebAssets.props
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiRestaurante.props
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestaurante.props
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiRestaurante.props
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.RazorTargetAssemblyInfo.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.csproj.CopyComplete
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\refint\ApiRestaurante.dll
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.pdb
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ApiRestaurante.genruntimeconfig.cache
+D:\netProject\ApiRestaurante\ApiRestaurante\obj\Debug\net5.0\ref\ApiRestaurante.dll
